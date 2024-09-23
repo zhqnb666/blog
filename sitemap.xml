@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://mydomain.org/mysite/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/blog/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/blog/2024/09/20/my-first-blog/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/blog/2024/09/21/%E5%9B%BE%E8%AE%BA%E7%AC%94%E8%AE%B0%E5%9B%9B/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/blog/2023/12/31/happy-new-year/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/blog/archive/2024/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/blog/archive/2023/</loc>
+         <lastmod>2024-09-23</lastmod>
+    </url>
+</urlset>
