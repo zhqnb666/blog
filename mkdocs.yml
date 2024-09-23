@@ -20,7 +20,7 @@ theme:
     - content.code.annotation
     - content.code.copy
     - content.tabs.link
-  language: zh
+  language: en
   palette: 
 
     # Palette toggle for light mode
@@ -35,11 +35,12 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-# plugins:
-#   - search:
-#       separator: '[\s\u200b\-]'
-#   - blog:
-#       archive_date_format: yyyy'年'MMMM
+plugins:
+  # - search
+  - search:
+      separator: '[\s\u200b\-]'
+  - blog:
+      archive_date_format: yyyy'年'MMMM
 
 markdown_extensions:
   - pymdownx.arithmatex:

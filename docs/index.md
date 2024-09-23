@@ -1,20 +1,69 @@
 ---
 comments: true
+hide:
+  - navigation
+  #- toc
 ---
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# 主页
 
-## Commands
+欢迎来到我的个人博客主页
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 推荐
 
-## Project layout
+<div class="grid cards" markdown>
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+-   :material-file-tree: &nbsp; __[Built-in meta plugin][meta]__
+
+    ---
+
+    The meta plugin makes it easy to apply [metadata] to a subset of posts,
+    including authors, tags, categories, draft status, as well as social card
+    layouts.
+
+    ---
+
+    __Simpler organization, categorization and management of post metadata__
+
+-   :material-share-circle: &nbsp; __[Built-in social plugin][social]__
+
+    ---
+
+    The social plugin automatically generates beautiful and customizable
+    social cards for each post and page, showing as previews on social media.
+
+    ---
+
+    __Links to your blog render beautiful social cards when shared on social
+    media__
+
+-   :material-rabbit: &nbsp; __[Built-in optimize plugin][optimize]__
+
+    ---
+
+    The optimize plugin automatically identifies and optimizes all media files
+    that you reference in your project by using compression and conversion
+    techniques.
+
+    ---
+
+    __Your blog loads faster as smaller images are served to your users__
+
+-   :material-tag-text: &nbsp; __[Built-in tags plugin][tags]__
+
+    ---
+
+    The tags plugin allows to categorize posts alongside with pages in your
+    project, to improve their discoverability and connect posts to your
+    documentation.
+
+    ---
+
+    __Your documentation's tag system integrates with your blog__
+
+</div>
+
+  [meta]: blog/posts/1.md
+  [social]: blog/posts/2.md
+  [optimize]: blog/posts/3.md
+  [tags]: blog/posts/4.md
