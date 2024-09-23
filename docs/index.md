@@ -16,4 +16,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-$ f(x)=\frac{1}{(x-1)^2} $
+$f(x)=\frac{1}{(x-1)^2}$
