@@ -20,7 +20,7 @@ theme:
     - content.code.annotation
     - content.code.copy
     - content.tabs.link
-  language: en
+  language: zh
   palette: 
 
     # Palette toggle for light mode
