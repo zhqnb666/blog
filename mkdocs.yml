@@ -40,7 +40,7 @@ plugins:
   - search:
       separator: '[\s\u200b\-]'
   - blog:
-      archive_date_format: yyyy'年'MMMM
+      archive_date_format: MMMM yyyy
 
 markdown_extensions:
   - pymdownx.arithmatex:
@@ -73,13 +73,7 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
-# nav:
-#   - homepage.md
-#   - Blog:
-#      - blog/index.md
-#   - Page:
-#     - page/index.md
-#     - Page1: page/page1.md
-#     - Page2: page/page2.md
-#     - section: 
-#       - page3: page/section/page3.md
+nav:
+  - index.md
+  - Blog:
+     - blog/index.md
