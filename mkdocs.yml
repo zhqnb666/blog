@@ -37,10 +37,10 @@ theme:
 
 plugins:
   # - search
-  - search:
-      separator: '[\s\u200b\-]'
-  - blog:
-      archive_date_format: MMMM yyyy
+  - search
+  - blog
+  # - blog:
+  #     archive_date_format: MMMM yyyy
 
 markdown_extensions:
   - pymdownx.arithmatex:

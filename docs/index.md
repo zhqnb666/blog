@@ -64,6 +64,6 @@ hide:
 </div>
 
   [meta]: blog/posts/1.md
-  [social]: blog/posts/2.md
-  [optimize]: blog/posts/3.md
-  [tags]: blog/posts/4.md
+  [social]: blog/posts/1.md
+  [optimize]: blog/posts/1.md
+  [tags]: blog/posts/1.md
